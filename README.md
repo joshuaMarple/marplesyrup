@@ -29,3 +29,8 @@ Store in fridge for up to a month. Some sources suggest that rich simple syrup [
 
 In practice, I mix this the week before, as the powder form is easier to store.
 
+<style>
+  .footer {
+    display: none;
+  }
+</style>
