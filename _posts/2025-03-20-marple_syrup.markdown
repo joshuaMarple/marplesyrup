@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Making your own running gels"
+date:   2025-03-20 00:04:36 -0700
+categories: running nutrition
+---
 Running gels are a great way to improve your athletic performance, but come with some serious downsides:
 
 * lots of packaging waste
