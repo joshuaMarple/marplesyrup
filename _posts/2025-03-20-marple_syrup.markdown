@@ -6,7 +6,7 @@ categories: running nutrition
 toc: true
 ---
 
-Running gels are a great way to improve your athletic performance, but come with some serious downsides:
+Pre-packaged running gels are a great way to improve your athletic performance, but come with some serious downsides:
 
 * lots of packaging waste
 * high cost
