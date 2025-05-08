@@ -87,6 +87,10 @@ Others may not tolerate a high amount of sugar well, and want to dial it back. A
 #### Aren't other electrolytes important?
 They are, but not during exercise. In fact, according to Saturday Nutrition, the addition of potassium actually [decreases hydration](https://www.youtube.com/watch?v=FNL00bGE5LY). Your sweat is predominately water, but sodium is the next most important thing. The other trace electrolytes in our blood simply don't add up.
 
+#### Is this only for running? Can I use it for any activity?
+
+Use it anywhere you might use Gatorade as well. Rather than mixing to a syrupy consistency, you can add the powder to a water bottle, same as you might for Gatorade or Skratch. I often use this when cycling, where the gel consistency may not be desirable.
+
 #### Isn't this just salty Kool Aid?
 Yes it absolutely is.
 
